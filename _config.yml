@@ -1,23 +1,23 @@
 # Site settings
-title: 乔雪健的技术博客
-email: xuejian_qiao@163.com
-description: > #乔雪健的技术博客
+title:  task117的技术博客
+email: ghost9927@gmail.com
+description: > #卢笛的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://xuejianqiao.github.io" # the base hostname & protocol for your site
-twitter_username: 1661195631@qq.com
-github_username:  xuejianqiao
+url: "https://task117.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  Task-117
 
 # Build settings
 #markdown: kramdown
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 乔雪健
-  email: xuejian_qiao@163.com
-  link: https://xuejianqiao.github.io/
-  weibo: http://weibo.com/1661195631
-  github: http://github.com/xuejianqiao
-title: 乔雪健的技术博客                             #自定义常量
+  name:  task117
+  email: ghost9927@gmail.com
+  link: https://task117.github.io
+  weibo: 
+  github: https://github.com/Task-117
+title:  task117的技术博客                             #自定义常量
 
 # avatar头像及Favicon
 avatar: https://avatars0.githubusercontent.com/u/25722255?s=400&u=8aff25fa21f717eb8293112423bff0b9d348e44a&v=4
@@ -43,4 +43,4 @@ ba:
 
 # disqus 设置
 disqus:
-  shortname: xuejianqiao
+  shortname: task117
